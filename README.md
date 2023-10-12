@@ -2,10 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--mh-aem-test
---mhaack.hlx.page/
-- Live: https://main--mh-aem-test
---mhaack.hlx.live/
+- Preview: https://main--mh-aem-test--mhaack.hlx.page/
+- Live: https://main--mh-aem-test--mhaack.hlx.live/
 
 ## Installation
 
